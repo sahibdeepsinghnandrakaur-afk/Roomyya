@@ -1,0 +1,7 @@
+{
+  "name": "Roomy - Alquiler de Cuartos",
+  "description": "Una plataforma moderna para publicar y alquilar habitaciones. Sube fotos, gestiona precios y obtén ayuda en tiempo real con nuestro asistente inteligente.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
